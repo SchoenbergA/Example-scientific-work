@@ -1,5 +1,5 @@
 # Example-scientific-work
-some examples for scientific works:
+some examples for scientific works (master course achievements):
 
 ### Papers
 ## Schoenberg et al. (2020) Moss species distribution patterns and their dependency to different substrates and forest structures
