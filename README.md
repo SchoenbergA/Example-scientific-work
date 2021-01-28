@@ -3,7 +3,7 @@ some examples for scientific works:
 
 ### Papers
 ## Schoenberg et al. (2020) Moss species distribution patterns and their dependency to different substrates and forest structures
-personal share: project planning / species determination / method development / grafic design / project leader
+personal share: project planning / species determination / method development / grafic design / project leader / paper structure and writing
 
 ## Schönberg_et_al_2019_hollow_shade_detection.pdf
 personal share: part for remote sensing / grafic design / project leader
